@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LantzShaw
-- 👀 I’m interested in Reat, Vue and nodejs
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in Reat, React Native, Vue and nodejs
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
