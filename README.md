@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LantzShaw
-- 👀 I’m interested in Reat, React Native, Vue, Flutter, TypeScript and Nodejs
+- 👀 I’m interested in React, React Native, Vue, Flutter, TypeScript and Nodejs
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact me on this email lantzshaw@gmail.com
