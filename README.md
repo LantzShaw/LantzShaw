@@ -1,4 +1,3 @@
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LantzShaw&show_icons=true&icon_color=58a6ff&text_color=333333&bg_color=ffffff&hide_title=true" />
 
 - 👋 Hi, I’m @LantzShaw
